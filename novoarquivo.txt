@@ -1,1 +1,1 @@
-git flow feature start name-nnd
+git flow feature start name-feature
