@@ -1,0 +1,15 @@
+Iniciar o git flow
+>git flow init
+
+Criar uma feature
+>git flow feature start name-feature
+
+*Assegure de colocar no stage e commitar as alterações
+*Todos os commits serão direcionados para a developer ao finalizar a feature
+
+Finalizar uma feature
+>git flow feature finish name-feature
+
+Ao voltar para a branch developer realize o push
+>git push origin developer
+
